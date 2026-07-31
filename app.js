@@ -3,8 +3,6 @@ let input = document.querySelector(".input");
 let btn = document.querySelector(".btn");
 let ul = document.querySelector("ul");
 let warning = document.querySelector(".warning");
-let deleteBtn = document.querySelector(".del-btn");
-let deleteBtnAll = document.querySelectorAll(".del-btn");
 
 btn.addEventListener("click", function (event) {
   event.stopPropagation();
