@@ -4,12 +4,6 @@ A modern and responsive Todo application built with **HTML**, **CSS**, and **Van
 
 ---
 
-## 📸 Preview
-
-Todo App Preview https://arishlinuxuser.github.io/Todo-App/
-
----
-
 ## ✨ Features
 
 - ➕ Add new tasks
@@ -38,6 +32,12 @@ Todo App Preview https://arishlinuxuser.github.io/Todo-App/
 - Input Validation
 - CSS Animations
 - Responsive Design
+
+---
+
+## 📸 Preview
+
+Todo App Preview https://arishlinuxuser.github.io/Todo-App/
 
 ---
 
