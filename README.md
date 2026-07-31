@@ -37,7 +37,7 @@ A modern and responsive Todo application built with **HTML**, **CSS**, and **Van
 
 ## 📸 Preview
 
-![Todo App Preview] https://arishlinuxuser.github.io/Todo-App/
+Todo App Preview https://arishlinuxuser.github.io/Todo-App/
 
 ---
 
